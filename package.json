@@ -9,7 +9,7 @@
     "build:prod": "webpack --config webpack.config.prod.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "browserslist": "> 1%, last 2 versions",
   "devDependencies": {
     "@babel/core": "^7.6.4",
@@ -22,6 +22,8 @@
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",
     "html-webpack-plugin": "^3.2.0",
+    "mocha": "^7.0.0",
+    "mocha-loader": "^4.0.1",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.0.0",
     "url-loader": "^2.2.0",
